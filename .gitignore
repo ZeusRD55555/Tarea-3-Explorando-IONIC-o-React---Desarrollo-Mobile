@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Build artifacts
+dist/
+dist-ssr/
+
+# Local env files
+*.local
+
+# IDE configurations
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
